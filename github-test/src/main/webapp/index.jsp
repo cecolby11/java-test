@@ -13,7 +13,7 @@
 		request url: http://localhost:8080/github-test/rest/hello/json
 	</li>
 	<li>request method: POST</li>
-	<li>request body: {results: "hello there to you!"}</li>
+	<li>request body: {results: "hello there!"}</li>
 </ul>
 </body>
 </html>
